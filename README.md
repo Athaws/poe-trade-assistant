@@ -35,8 +35,8 @@ pip install -r requirements.txt
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourname/poe-trade-helper.git
-   cd poe-trade-helper
+   git clone https://github.com/Athaws/poe-trade-assistant.git
+   cd poe-trade-ssistant
    ```
 
 2. Install Python dependencies:
